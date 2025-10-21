@@ -2,7 +2,7 @@
 # 💫 About Me:
 <img src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" alt="Coding" width="400" align="right"/>
 
-🔭 I’m currently pursuing a degree in Computer Science and Engineering<br>👯 I’m looking to collaborate on web development projects, especially in React, and open-source tools<br>🤝 I’m looking for help with improving my skills in advanced JavaScript frameworks and scalable backend solutions<br>🌱 I’m currently learning React<br>⚡ I love building new things from scratch and exploring different technologies to solve real-world problems!
+🔭 I’m currently pursuing a degree in Computer Science and Engineering<br>👯 I’m looking to collaborate on web development projects, especially in React, and open-source tools<br>🤝 I’m looking for help with improving my skills in advanced JavaScript frameworks and scalable backend solutions<br>🌱 I’m currently learning NextJS<br>⚡ I love building new things from scratch and exploring different technologies to solve real-world problems!
 
 
 ## 🌐 Socials:
