@@ -62,7 +62,9 @@
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raisul-tanna)
+[![Substack](https://img.shields.io/badge/Substack-%231A1A1A.svg?style=flat-square&logo=substack&logoColor=white)](https://raisulconnects.substack.com/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shinysnorlax)
+
 
 ---
 
