@@ -3,8 +3,11 @@
 
 # 👋 Hey, I'm **Raisul Islam**
 
-🎓 **Final-year Computer Science & Engineering student** passionate about crafting scalable, efficient, and intelligent web applications.  
-💡 I focus on **Full-Stack Development** with a growing interest in **AI-driven solutions**, blending web technologies with modern machine learning and GenAI capabilities.  
+🎓 **Final-year Computer Science & Engineering student** passionate about building scalable, efficient, and intelligent web applications.  
+💡 I focus on **Full-Stack Development** with a growing interest in **AI-driven solutions**, blending modern web technologies with machine learning and GenAI capabilities.  
+
+📝 I also document my learning journey and insights here:  
+[![Substack](https://img.shields.io/badge/Substack-%231A1A1A.svg?style=flat-square&logo=substack&logoColor=white)](https://raisulconnects.substack.com/)
 
 ---
 
